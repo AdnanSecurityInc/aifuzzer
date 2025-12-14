@@ -286,7 +286,7 @@ If you use this tool in research or want to reference it:
 ```
 Ahmad, Adnan. Adnan Security Inc. (2024-2025). AI-Powered Adaptive API Fuzzer: 
 The World's First Production AI-Based Adaptive API Security Testing Tool. 
-Retrieved from [URL]
+Retrieved from https://github.com/AdnanSecurityInc/aifuzzer
 ```
 
 ## License
@@ -300,6 +300,7 @@ This tool is provided for security research and authorized testing only.
 **Adnan Ahmad**
 - Company: Adnan Security Inc.
 - Email: adnan@adnansecurity.com
+- Website: https://adnansecurity.com
 - Research: API Security & AI-Assisted Security Testing
 
 ## Acknowledgments

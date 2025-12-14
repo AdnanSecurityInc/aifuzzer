@@ -2,7 +2,7 @@
 
 **Author:** Adnan Ahmad, Adnan Security Inc.  
 **Contact:** adnan@adnansecurity.com  
-**Date:** December 2024  
+**Date:** December 2025  
 **Version:** 1.0
 
 ## Abstract
@@ -351,7 +351,7 @@ Security Testing. Adnan Security Inc.
   title = {AI-Powered Adaptive API Fuzzing: A Novel Approach to API Security Testing},
   institution = {Adnan Security Inc.},
   year = {2025},
-  url = {[URL]},
+  url = {https://github.com/AdnanSecurityInc/aifuzzer}, {https://adnansecurity.com}
   note = {Version 1.0}
 }
 ```

@@ -346,7 +346,7 @@ Security Testing. Adnan Security Inc.
 
 **BibTeX:**
 ```bibtex
-@techreport{ahmad2024aifuzzer,
+@techreport{ahmad2025aifuzzer,
   author = {Ahmad, Adnan},
   title = {AI-Powered Adaptive API Fuzzing: A Novel Approach to API Security Testing},
   institution = {Adnan Security Inc.},
